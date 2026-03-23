@@ -46,7 +46,8 @@ FILE_NAMES = [
     "xp_SkillQuest_2026-03-10.xlsx",
     "xp_SkillQuest_2026-03-16.xlsx",
     "xp_SkillQuest_2026-03-17.xlsx",
-    "xp_SkillQuest_2026-03-18.xlsx"
+    "xp_SkillQuest_2026-03-18.xlsx",
+    "xp_SkillQuest_2026-03-23.xlsx"
 ]
 
 # Constantes pour les niveaux et les couleurs
